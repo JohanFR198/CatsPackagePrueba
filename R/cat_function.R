@@ -1,4 +1,4 @@
-#' A Cat Function
+#' A Cat Function asa
 #'
 #' This function allows you to express your love of cats.
 #' @param love Do you love cats? Defaults to TRUE.

@@ -2,7 +2,7 @@
 % Please edit documentation in R/cat_function.R
 \name{cat_function}
 \alias{cat_function}
-\title{A Cat Function}
+\title{A Cat Function asa}
 \usage{
 cat_function(love = TRUE)
 }
